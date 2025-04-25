@@ -22,10 +22,10 @@ Project–3
 The Amazon Product Reviews Dataset from Kaggle contains customer reviews and ratings for various 
 products sold on Amazon. It typically includes fields such as the product ID, product title, review text, 
 review summary, star rating, and timestamps. This dataset is widely used for tasks like sentiment analysis, 
-opinion mining, and recommendation systems. Reviews may span multiple categories including 
-electronics, books, clothing, and more. It helps in understanding customer satisfaction and trends based 
+opinion mining, and recommendation systems. Reviews may span multiple categories, including 
+electronics, books, clothing, etc. It helps understand customer satisfaction and trends based 
 on written feedback. With rich textual and numerical data, it's ideal for training natural language 
-processing
+processing.
 
 Dataset CSV - https://www.kaggle.com/datasets/ruchikakumbhar/obesity-prediction
 
